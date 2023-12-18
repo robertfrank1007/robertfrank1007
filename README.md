@@ -3,4 +3,5 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-[UIUC Basketball Analysis](https://github.com/robertfrank1007/Illinois-Baketball-Project)
+[UIUC Basketball Analysis Project](https://github.com/robertfrank1007/Illinois-Baketball-Project)
+[Mosaic Project] ()
