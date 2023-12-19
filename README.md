@@ -6,3 +6,5 @@
 [UIUC Basketball Analysis Project](https://github.com/robertfrank1007/Illinois-Baketball-Project)
 
 [Mosaic Project](https://github.com/robertfrank1007/Mosaic-Project/tree/main)
+
+Chicago Real Estate Analysis Project
