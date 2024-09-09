@@ -8,3 +8,5 @@
 [Mosaic Project](https://github.com/robertfrank1007/Mosaic-Project/tree/main)
 
 Chicago Real Estate Analysis Project
+
+[Blackjack Project] ()
