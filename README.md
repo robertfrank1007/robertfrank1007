@@ -7,5 +7,5 @@
 
 [2024-2025 NFL Fantasy WR Analysis Project](https://github.com/robertfrank1007/NFL-Fantasy-Wide-Receiver-Analysis-Project)
 
-[2024-2025 Chicago Bulls Analysis Project] ()
+[2024-2025 Chicago Bulls Analysis Project](https://github.com/robertfrank1007/2024-2025_Chicago_Bulls_Lineup_Analysis_Project)
 
