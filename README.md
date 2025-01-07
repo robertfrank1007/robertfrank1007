@@ -3,9 +3,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-[UIUC Basketball Analysis Project](https://github.com/robertfrank1007/Illinois-Baketball-Project)
+[2023-2024 UIUC Basketball Analysis Project](https://github.com/robertfrank1007/Illinois-Baketball-Project)
 
-[NFL Fantasy WR Analysis Project](https://github.com/robertfrank1007/NFL-Fantasy-Wide-Receiver-Analysis-Project)
+[2024-2025 NFL Fantasy WR Analysis Project](https://github.com/robertfrank1007/NFL-Fantasy-Wide-Receiver-Analysis-Project)
 
-[Mosaic Project](https://github.com/robertfrank1007/Mosaic-Project/tree/main)
+[2024-2025 Chicago Bulls Analysis Project] ()
 
