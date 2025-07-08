@@ -9,3 +9,4 @@
 
 [NBA2K25 Chicago Bulls Analysis Project](https://github.com/robertfrank1007/2024-2025_Chicago_Bulls_Lineup_Analysis_Project)
 
+[2025 NBA Free Agency Project] ()
