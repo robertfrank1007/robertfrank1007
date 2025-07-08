@@ -1,5 +1,5 @@
 <h1>Robert Frank <br/><a <h1>
-<h3> Statistics and Economics Student</h3>
+<h3> Statistics, Economics, & Data Science Student</h3>
 
 <h2>👨‍💻 Projects:</h2>
 
